@@ -37,7 +37,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://i.ibb.co/rdZC7LZ/Photo-logo-1.png">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQG7_2J3geg9ew/company-logo_200_200/0/1631983976094?e=2147483647&v=beta&t=RUP4RCYWJD7MdK7lQsDR3ExZCrIvpVzwhiuyFJeP11M">
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
